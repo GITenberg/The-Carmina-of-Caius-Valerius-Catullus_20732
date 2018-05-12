@@ -33,6 +33,8 @@ creator:
 description: Gaius Valerius Catullus (ca. 84 BC - ca. 54 BC) was a Roman poet. His
   surviving works are still read widely, and continue to influence poetry and other
   forms of art.-- Excerpted from Wikipedia, the free encyclopedia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20732#The-Carmina-of-Caius-Valerius-Catullus
 gutenberg_bookshelf:
 - Classical Antiquity
 - Poetry
