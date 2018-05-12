@@ -1,0 +1,54 @@
+_repo: The-Carmina-of-Caius-Valerius-Catullus_20732
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Sir Richard Francis
+    - Burton, R. F. (Richard F.), Sir
+    - Baker, Frank
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+  - agent_name: Smithers, Leonard C. (Leonard Charles)
+    alias: Smithers, Leonard Charles
+    birthdate: 1861
+    deathdate: 1907
+    gutenberg_agent_id: '9495'
+    url: http://www.gutenberg.org/2009/agents/9495
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Catullus, Gaius Valerius
+    alias: Catullus, Caius Valerius
+    birthdate: -84
+    deathdate: -54
+    gutenberg_agent_id: '8308'
+    url: http://www.gutenberg.org/2009/agents/8308
+    wikipedia: http://en.wikipedia.org/wiki/Catullus
+description: Gaius Valerius Catullus (ca. 84 BC - ca. 54 BC) was a Roman poet. His
+  surviving works are still read widely, and continue to influence poetry and other
+  forms of art.-- Excerpted from Wikipedia, the free encyclopedia.
+gutenberg_bookshelf:
+- Classical Antiquity
+- Poetry
+gutenberg_issued: '2007-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry, Latin -- Translations into English'
+- !lcsh 'Elegiac poetry, Latin -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Epigrams, Latin -- Translations into English'
+- !lcsh 'Catullus, Gaius Valerius -- Translations into English'
+title: The Carmina of Caius Valerius Catullus
+url: http://www.gutenberg.org/ebooks/20732
